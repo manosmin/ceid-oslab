@@ -14,9 +14,7 @@ This project involves creating C programs to analyze parallel execution scenario
 
 ## Tech Stack
 
-**OS**: Linux 
-
-**Language**: C
+**Back End**: C
 
 
 ## Deployment
